@@ -61,6 +61,11 @@ border: 1px solid black;
     font-weight:600;
     font-size:20px;
     width:45vw;
+    display:flex;
+    justify-content: flex-end;
+}
+.weather span{
+    margin-left:10px;
 }
 .quotes{
     width:50vw;
